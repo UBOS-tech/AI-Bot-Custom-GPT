@@ -23,7 +23,7 @@ AI Bot – Custom GPT
   
 </div>
 
-# :star2::star2::star2: New Version Available [Here](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit)
+# :star2::star2::star2: New Version [AI Chatbot Starter Kit v3.0](https://github.com/UBOS-tech/AI-Chatbot-Starter-Kit)
 
 ### Build custom GPT Bots
 
