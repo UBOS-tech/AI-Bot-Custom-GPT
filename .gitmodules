@@ -1,0 +1,6 @@
+[submodule "AI-bot-demo-ui"]
+	path = AI-bot-demo-ui
+	url = https://github.com/UBOS-tech/AI-bot-demo-ui.git
+[submodule "AI-bot-demo-nr"]
+	path = AI-bot-demo-nr
+	url = https://github.com/UBOS-tech/AI-bot-demo-nr.git
